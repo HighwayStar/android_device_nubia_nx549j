@@ -1307,8 +1307,7 @@
     </path>
 
     <path name="wsa-speaker-and-line">
-        <path name="wsa-speaker" />
-        <path name="headphones" />
+        <path name="wsa-speaker-and-headphones" />
     </path>
 
 </mixer>
