@@ -1093,6 +1093,10 @@
         <ctl name="SpkrMono VISENSE Switch" value="1" />
     </path>
 
+   <path name="voice-speaker-protected">
+        <path name="speaker-protected" />
+   </path>
+
    <path name="speaker-mic">
         <path name="adc3" />
    </path>
