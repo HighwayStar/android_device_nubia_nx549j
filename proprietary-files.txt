@@ -122,6 +122,12 @@ lib64/libfp_client.so
 lib64/libfpservice.so
 lib64/libfpnav.so
 
+# NFC
+lib64/hw/nfc_nci.bcm2079x.default.so
+vendor/firmware/Generic_unsigned_70ms.ncd
+vendor/firmware/Generic_unsigned_NVM.ncd
+vendor/firmware/Generic_unsigned_SY.ncd
+
 # Touchscreen
 etc/firmware/nubia_tp_boe_fw.img
 etc/firmware/nubia_tp_jdi_fw.img
